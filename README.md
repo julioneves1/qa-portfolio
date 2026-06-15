@@ -1,4 +1,4 @@
-# 🎭 QA Portfolio — Automação de Testes com Playwright
+# QA Portfolio — Automação de Testes com Playwright
 
 Projeto de automação de testes desenvolvido para demonstrar habilidades em **Quality Assurance**, cobrindo testes de **UI**, **API** e fluxos **End-to-End (E2E)** com Playwright e TypeScript.
 
@@ -6,7 +6,7 @@ Projeto de automação de testes desenvolvido para demonstrar habilidades em **Q
 
 ---
 
-## 🧪 O que este projeto demonstra
+## O que este projeto demonstra
 
 - ✅ **Page Object Model (POM)** — separação de responsabilidades, código reutilizável e fácil manutenção
 - ✅ **Testes de UI** — interações com a interface, validações visuais e de comportamento
@@ -18,7 +18,7 @@ Projeto de automação de testes desenvolvido para demonstrar habilidades em **Q
 
 ---
 
-## 🏗️ Estrutura do Projeto
+## Estrutura do Projeto
 
 ```
 qa-portfolio/
@@ -45,7 +45,7 @@ qa-portfolio/
 
 ---
 
-## 📋 Casos de Teste
+## Casos de Teste
 
 ### UI — Login (9 testes)
 | ID | Cenário | Tipo |
@@ -111,7 +111,7 @@ qa-portfolio/
 
 ---
 
-## 🚀 Como Executar
+## Como Executar
 
 ### Pré-requisitos
 - Node.js 18+
@@ -155,7 +155,7 @@ npm run test:report
 
 ---
 
-## 📊 Relatórios
+## Relatórios
 
 Após a execução, o relatório HTML é gerado em `reports/html-report/`. Ele inclui:
 - Status de cada teste (passou/falhou)
@@ -166,7 +166,7 @@ Após a execução, o relatório HTML é gerado em `reports/html-report/`. Ele i
 
 ---
 
-## 🛠️ Tecnologias
+## Tecnologias
 
 | Tecnologia | Versão | Uso |
 |---|---|---|
@@ -176,7 +176,7 @@ Após a execução, o relatório HTML é gerado em `reports/html-report/`. Ele i
 
 ---
 
-## 📐 Padrões e Decisões Técnicas
+## Padrões e Decisões Técnicas
 
 ### Por que Page Object Model?
 O POM separa os seletores e ações de cada página dos casos de teste. Se um seletor mudar, você atualiza em um único arquivo, não em 20 testes.
@@ -192,10 +192,10 @@ Tipagem estática evita erros em tempo de desenvolvimento, melhora o autocomplet
 
 ---
 
-## 👨‍💻 Sobre
+## Sobre
 
 Projeto desenvolvido como parte da transição de carreira para a área de **Quality Assurance**. O foco nesse projeto foi demonstrar raciocínio de testador: identificar cenários positivos, negativos, de borda, de acessibilidade e de consistência de dados.
 
-📧 [dev.jneves@gmail.com]
-💼 [linkedin.com/in/julio-neves-it/]
-🐙 [github.com/julioneves1]
+e-mail [dev.jneves@gmail.com]
+Linkedin [linkedin.com/in/julio-neves-it/]
+Github [github.com/julioneves1]
